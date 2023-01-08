@@ -38,7 +38,7 @@ int main() {
     cout << "*pointVar = " << *pointVar << endl
          << endl;
 
-    cout << "Changing value of var to 7:" << endl;
+    cout << "Changing value of var to 9:" << endl;
 
     // change value of var to 9
     var = 9;
