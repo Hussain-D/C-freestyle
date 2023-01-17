@@ -18,7 +18,7 @@ int main(){
             for(int &n : numarray){
                 cout << n;
             }
-            'n' takes values of numarray directly. It is more efficient!
+            'n' takes values of numarray directly. It is more memory-efficient!
             '&' is reference operator
     */
 
