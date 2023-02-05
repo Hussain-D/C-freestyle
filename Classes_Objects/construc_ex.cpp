@@ -3,7 +3,7 @@ using namespace std;
 
 class Paint{
     public:
-        Paint(string n){    //defining the constructor
+        Paint(string n){    //defining the constructor with string parameter
             cout<<n<<endl;
         }
 };
